@@ -1,0 +1,6 @@
+python-terrier
+sentence-transformers
+torch
+numpy
+pandas
+tqdm

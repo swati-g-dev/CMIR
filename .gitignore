@@ -1,0 +1,14 @@
+# Data 
+data/
+index/
+
+# Python
+__pycache__/
+.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs
+outputs/*.csv

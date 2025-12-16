@@ -24,16 +24,14 @@ The system combines the **high recall of lexical retrieval (BM25)** with the **s
 
 ## 🚫 Dataset Availability
 
-The dataset used in this project is **not included** in this repository due to a **Data Use Agreement (DUA)**.
+The dataset used in this project is **not included** in this repository due to a **Data Usage Agreement**.
 
-Required data files (expected locally):
+Required data files :
 
 - `Baseline_Corpus.trec`
 - `Train_query.trec`
 - `Test_query.trec`
 - `QRels_Train.txt`
-
-Please obtain the dataset from the official source or organizers and place it inside a local `data/` directory.
 
 ---
 
@@ -50,4 +48,5 @@ The index/ folder will be generated automatically.
 ## 📊 Evaluation Metrics
 
 Metrics are computed using training qrels.
+
 Test queries generate ranked outputs without evaluation labels.

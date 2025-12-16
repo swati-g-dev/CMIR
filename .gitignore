@@ -1,6 +1,7 @@
 # Data 
 data/
 index/
+output/
 
 # Python
 __pycache__/
